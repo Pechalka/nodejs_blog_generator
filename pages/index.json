@@ -1,0 +1,14 @@
+{
+	"block" : "page",
+	"title" : "home",
+	"content" : [
+		{
+			"block" : "menu",
+			"items" : ["index", "about"]
+		},
+		{
+			"block" : "text",
+			"html" : "hello world!!! "
+		}
+	]
+}
